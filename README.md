@@ -1,4 +1,4 @@
-👋 Hello there! I'm Seán, a passionate developer and designer who loves crafting innovative solutions through code and creativity.
+👋 Hello there! I'm Ghaus, a passionate developer and designer who loves crafting innovative solutions through code and creativity.
 
 🌐 As a web developer, I specialize in HTML, CSS, and JavaScript, building interactive and user-friendly websites that leave a lasting impression. I strive to create interfaces that are not only visually appealing but also intuitive and enjoyable to use.
 
