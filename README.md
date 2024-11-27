@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, Myself Ghaus Malik</h1>
-<h4 align="center">I'm deeply involved in tech as a Software Engineering student and a Full-Stack Web Developer. With a focus on MERN Stack,Always keen to learn new skills So Let's start scrolling and learn more about me.</h4>
+<h4 align="center">I'm deeply involved in tech as a Software Engineering student, Full-Stack Web Developer, and Machine Learning enthusiast. With expertise in the MERN Stack, React Native for app development, and advanced skills in Hugging Face LLMs, computer vision, NLP, and deep learning libraries like TensorFlow and Keras, I'm always eager to explore and master new technologies. Let's start scrolling to learn more about me!</h4>
 
 
 </p>
